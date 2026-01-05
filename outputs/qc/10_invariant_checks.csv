@@ -1,0 +1,58 @@
+sheet,check,pre_value,post_value,status
+Benchmarks,row_count,10,10,PASS
+Benchmarks,column_count,2,2,PASS
+Benchmarks,null_count_category,0,0,PASS
+Benchmarks,null_count_benchmark,0,0,PASS
+P&L Summary,row_count,46,46,PASS
+P&L Summary,column_count,2,2,PASS
+P&L Summary,null_count_p_l_summary,8,8,PASS
+P&L Summary,null_count_2018_total,11,11,PASS
+OPEX - NEmpl.,row_count,1890,1890,PASS
+OPEX - NEmpl.,column_count,6,6,PASS
+OPEX - NEmpl.,null_count_function_l1,0,0,PASS
+OPEX - NEmpl.,null_count_function_l2,0,0,PASS
+OPEX - NEmpl.,null_count_department,0,0,PASS
+OPEX - NEmpl.,null_count_expense_category,0,0,PASS
+OPEX - NEmpl.,null_count_vendor,1890,1890,PASS
+OPEX - NEmpl.,null_count_2018_total,0,0,PASS
+COGS - NEmpl.,row_count,849,849,PASS
+COGS - NEmpl.,column_count,6,6,PASS
+COGS - NEmpl.,null_count_function_l1,0,0,PASS
+COGS - NEmpl.,null_count_function_l2,0,0,PASS
+COGS - NEmpl.,null_count_department,0,0,PASS
+COGS - NEmpl.,null_count_expense_category,0,0,PASS
+COGS - NEmpl.,null_count_vendor,849,849,PASS
+COGS - NEmpl.,null_count_2018_total,0,0,PASS
+Empl.,row_count,458,458,PASS
+Empl.,column_count,7,7,PASS
+Empl.,null_count_tier,0,0,PASS
+Empl.,null_count_category,0,0,PASS
+Empl.,null_count_function_l1,0,0,PASS
+Empl.,null_count_function_l2,0,0,PASS
+Empl.,null_count_department,0,0,PASS
+Empl.,null_count_name,458,458,PASS
+Empl.,null_count_2018_total,0,0,PASS
+RecurringRevenue,row_count,2112,2112,PASS
+RecurringRevenue,column_count,4,4,PASS
+RecurringRevenue,null_count_tier,0,0,PASS
+RecurringRevenue,null_count_type,0,0,PASS
+RecurringRevenue,null_count_customer_name,2112,2112,PASS
+RecurringRevenue,null_count_2018_total,0,0,PASS
+PSORevenue,row_count,323,323,PASS
+PSORevenue,column_count,4,4,PASS
+PSORevenue,null_count_tier,0,0,PASS
+PSORevenue,null_count_type,0,0,PASS
+PSORevenue,null_count_customer_name,323,323,PASS
+PSORevenue,null_count_2018_total,0,0,PASS
+PerpetualRevenue,row_count,84,84,PASS
+PerpetualRevenue,column_count,4,4,PASS
+PerpetualRevenue,null_count_tier,0,0,PASS
+PerpetualRevenue,null_count_type,0,0,PASS
+PerpetualRevenue,null_count_customer_name,84,84,PASS
+PerpetualRevenue,null_count_2018_total,0,0,PASS
+Finance Roles,row_count,5,5,PASS
+Finance Roles,column_count,4,4,PASS
+Finance Roles,null_count_title,0,0,PASS
+Finance Roles,null_count_description,0,0,PASS
+Finance Roles,null_count_hourly_rate_usd,0,0,PASS
+Finance Roles,null_count_annual_salary_usd,0,0,PASS
