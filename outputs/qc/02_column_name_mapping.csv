@@ -1,0 +1,40 @@
+sheet_name,original_column,normalized_column,transformation_applied
+pnl_Benchmarks,Category,category,Yes
+pnl_Benchmarks,Benchmark,benchmark,Yes
+pnl_P&L Summary,P&L Summary,p_l_summary,Yes
+pnl_P&L Summary,2018 Total,2018_total,Yes
+pnl_OPEX - NEmpl.,Function L1,function_l1,Yes
+pnl_OPEX - NEmpl.,Function L2,function_l2,Yes
+pnl_OPEX - NEmpl.,Dept,dept,Yes
+pnl_OPEX - NEmpl.,Dept,dept_1,Yes
+pnl_OPEX - NEmpl.,Vendor,vendor,Yes
+pnl_OPEX - NEmpl.,2018 total,2018_total,Yes
+pnl_COGS - NEmpl.,Function L1,function_l1,Yes
+pnl_COGS - NEmpl.,Function L2,function_l2,Yes
+pnl_COGS - NEmpl.,Dept,dept,Yes
+pnl_COGS - NEmpl.,Dept,dept_1,Yes
+pnl_COGS - NEmpl.,Vendor,vendor,Yes
+pnl_COGS - NEmpl.,2018 total,2018_total,Yes
+pnl_Empl.,Tier,tier,Yes
+pnl_Empl.,Category,category,Yes
+pnl_Empl.,Function L1,function_l1,Yes
+pnl_Empl.,Function L2,function_l2,Yes
+pnl_Empl.,DEPT,dept,Yes
+pnl_Empl.,Name,name,Yes
+pnl_Empl.,2018 total,2018_total,Yes
+pnl_RecurringRevenue,Tier,tier,Yes
+pnl_RecurringRevenue,Type,type,Yes
+pnl_RecurringRevenue,Customer Name,customer_name,Yes
+pnl_RecurringRevenue,2018 total,2018_total,Yes
+pnl_PSORevenue,Tier,tier,Yes
+pnl_PSORevenue,Type,type,Yes
+pnl_PSORevenue,Customer Name,customer_name,Yes
+pnl_PSORevenue,2018 total,2018_total,Yes
+pnl_PerpetualRevenue,Tier,tier,Yes
+pnl_PerpetualRevenue,Type,type,Yes
+pnl_PerpetualRevenue,Customer Name,customer_name,Yes
+pnl_PerpetualRevenue,2018 total,2018_total,Yes
+cfr_Finance Roles,Title,title,Yes
+cfr_Finance Roles,Description,description,Yes
+cfr_Finance Roles,Hourly Rate (USD),hourly_rate_usd,Yes
+cfr_Finance Roles,Annual Salary (USD),annual_salary_usd,Yes

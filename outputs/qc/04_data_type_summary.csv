@@ -1,0 +1,40 @@
+sheet_key,column,pandas_dtype,sample_value
+pnl_Benchmarks,category,object,Margin
+pnl_Benchmarks,benchmark,object,0.7
+pnl_P&L Summary,p_l_summary,object,Revenue
+pnl_P&L Summary,2018_total,object,79194483.5
+pnl_OPEX - NEmpl.,function_l1,object,OPEX
+pnl_OPEX - NEmpl.,function_l2,object,G&A
+pnl_OPEX - NEmpl.,dept,object,Corporate Technology
+pnl_OPEX - NEmpl.,dept_1,object,Hosting
+pnl_OPEX - NEmpl.,vendor,object,N/A
+pnl_OPEX - NEmpl.,2018_total,object,7050
+pnl_COGS - NEmpl.,function_l1,object,COGS
+pnl_COGS - NEmpl.,function_l2,object,Cost of Product
+pnl_COGS - NEmpl.,dept,object,Cloud Operations
+pnl_COGS - NEmpl.,dept_1,object,External Contractors
+pnl_COGS - NEmpl.,vendor,object,N/A
+pnl_COGS - NEmpl.,2018_total,object,192210
+pnl_Empl.,tier,object,Cost
+pnl_Empl.,category,object,Personnel
+pnl_Empl.,function_l1,object,COGS
+pnl_Empl.,function_l2,object,Cost of Product
+pnl_Empl.,dept,object,Cloud Operations
+pnl_Empl.,name,object,N/A
+pnl_Empl.,2018_total,object,15400.000000000002
+pnl_RecurringRevenue,tier,object,Revenue
+pnl_RecurringRevenue,type,object,Recurring
+pnl_RecurringRevenue,customer_name,object,N/A
+pnl_RecurringRevenue,2018_total,object,782392.5
+pnl_PSORevenue,tier,object,Revenue
+pnl_PSORevenue,type,object,PSO
+pnl_PSORevenue,customer_name,object,N/A
+pnl_PSORevenue,2018_total,object,370764.6
+pnl_PerpetualRevenue,tier,object,Revenue
+pnl_PerpetualRevenue,type,object,Perpetual
+pnl_PerpetualRevenue,customer_name,object,N/A
+pnl_PerpetualRevenue,2018_total,object,89138.09999999999
+cfr_Finance Roles,title,object,SVP of Finance
+cfr_Finance Roles,description,object,SVPs of Finance review deep dives and make important design decisions to build advanced central finance systems so scalable that we can acquire 1 company/week and have the books in a closeable state at any point in time.
+cfr_Finance Roles,hourly_rate_usd,object,200
+cfr_Finance Roles,annual_salary_usd,object,400000

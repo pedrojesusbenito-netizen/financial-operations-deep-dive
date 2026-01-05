@@ -1,0 +1,40 @@
+sheet_name,column,null_count,total_rows,null_rate_pct
+pnl_Benchmarks,category,0,10,0.0
+pnl_Benchmarks,benchmark,0,10,0.0
+pnl_P&L Summary,p_l_summary,8,46,17.39
+pnl_P&L Summary,2018_total,11,46,23.91
+pnl_OPEX - NEmpl.,function_l1,0,1890,0.0
+pnl_OPEX - NEmpl.,function_l2,0,1890,0.0
+pnl_OPEX - NEmpl.,dept,0,1890,0.0
+pnl_OPEX - NEmpl.,dept_1,0,1890,0.0
+pnl_OPEX - NEmpl.,vendor,1890,1890,100.0
+pnl_OPEX - NEmpl.,2018_total,0,1890,0.0
+pnl_COGS - NEmpl.,function_l1,0,849,0.0
+pnl_COGS - NEmpl.,function_l2,0,849,0.0
+pnl_COGS - NEmpl.,dept,0,849,0.0
+pnl_COGS - NEmpl.,dept_1,0,849,0.0
+pnl_COGS - NEmpl.,vendor,849,849,100.0
+pnl_COGS - NEmpl.,2018_total,0,849,0.0
+pnl_Empl.,tier,0,458,0.0
+pnl_Empl.,category,0,458,0.0
+pnl_Empl.,function_l1,0,458,0.0
+pnl_Empl.,function_l2,0,458,0.0
+pnl_Empl.,dept,0,458,0.0
+pnl_Empl.,name,458,458,100.0
+pnl_Empl.,2018_total,0,458,0.0
+pnl_RecurringRevenue,tier,0,2112,0.0
+pnl_RecurringRevenue,type,0,2112,0.0
+pnl_RecurringRevenue,customer_name,2112,2112,100.0
+pnl_RecurringRevenue,2018_total,0,2112,0.0
+pnl_PSORevenue,tier,0,323,0.0
+pnl_PSORevenue,type,0,323,0.0
+pnl_PSORevenue,customer_name,323,323,100.0
+pnl_PSORevenue,2018_total,0,323,0.0
+pnl_PerpetualRevenue,tier,0,84,0.0
+pnl_PerpetualRevenue,type,0,84,0.0
+pnl_PerpetualRevenue,customer_name,84,84,100.0
+pnl_PerpetualRevenue,2018_total,0,84,0.0
+cfr_Finance Roles,title,0,5,0.0
+cfr_Finance Roles,description,0,5,0.0
+cfr_Finance Roles,hourly_rate_usd,0,5,0.0
+cfr_Finance Roles,annual_salary_usd,0,5,0.0
