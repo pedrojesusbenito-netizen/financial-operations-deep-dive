@@ -1,0 +1,9 @@
+sheet,column,row_count,non_null_count,null_count,baseline_sum
+Benchmarks,2018_total,10,10,0,1.2999999999999998
+P&L Summary,2018_total,46,35,11,660074967.3886094
+OPEX - NEmpl.,2018_total,1890,1890,0,27170629.5
+COGS - NEmpl.,2018_total,849,849,0,14461557.900000002
+Empl.,2018_total,458,458,0,30544905.6
+RecurringRevenue,2018_total,2112,2112,0,68584167.0
+PSORevenue,2018_total,323,323,0,9307488.2
+PerpetualRevenue,2018_total,84,84,0,1302828.3

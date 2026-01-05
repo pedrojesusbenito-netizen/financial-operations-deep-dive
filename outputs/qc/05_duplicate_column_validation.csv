@@ -1,0 +1,3 @@
+sheet,original_col_name,renamed_to,col_index_0,col_index_1,values_identical,unique_values_dept,unique_values_dept_1,rows_differing,semantic_meaning_dept,semantic_meaning_dept_1
+OPEX - NEmpl.,Dept (appears twice),"dept, dept_1",Column 3 (0-indexed: 2),Column 4 (0-indexed: 3),False,24,11,1672,Department/Team name,Expense sub-category
+COGS - NEmpl.,Dept (appears twice),"dept, dept_1",Column 3 (0-indexed: 2),Column 4 (0-indexed: 3),False,8,9,849,Department/Team name,Expense sub-category

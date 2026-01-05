@@ -1,0 +1,11 @@
+sheet,column,current_dtype,pattern_type,pattern_count,pattern_examples,total_values
+Benchmarks,benchmark,object,all_numeric,0,N/A,10
+P&L Summary,2018_total,object,all_numeric,0,N/A,35
+OPEX - NEmpl.,2018_total,object,all_numeric,0,N/A,1890
+COGS - NEmpl.,2018_total,object,all_numeric,0,N/A,849
+Empl.,2018_total,object,all_numeric,0,N/A,458
+RecurringRevenue,2018_total,object,all_numeric,0,N/A,2112
+PSORevenue,2018_total,object,all_numeric,0,N/A,323
+PerpetualRevenue,2018_total,object,all_numeric,0,N/A,84
+Finance Roles,hourly_rate_usd,object,all_numeric,0,N/A,5
+Finance Roles,annual_salary_usd,object,all_numeric,0,N/A,5
