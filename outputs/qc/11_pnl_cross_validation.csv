@@ -1,0 +1,7 @@
+category,pnl_summary_value,computed_value,difference,status
+Recurring Revenue,68584167.0,68584167.0,0.0,PASS
+PSO Revenue,9307488.2,9307488.2,0.0,PASS
+Perpetual Revenue,1302828.3,1302828.3,0.0,PASS
+HC Expense (W2),30544905.6,30544905.6,0.0,PASS
+Non HC Expense (OPEX),27170629.5,27170629.5,0.0,PASS
+Non HC Expense (COGS),14461557.9,14461557.900000002,1.862645149230957e-09,PASS

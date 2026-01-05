@@ -1,0 +1,11 @@
+sheet,column,pre_sum,post_sum,difference,tolerance,status
+Benchmarks,benchmark,1.2999999999999998,1.2999999999999998,0.0,0.01,PASS
+P&L Summary,2018_total,660074967.3886094,660074967.3886094,0.0,0.01,PASS
+OPEX - NEmpl.,2018_total,27170629.5,27170629.5,0.0,0.01,PASS
+COGS - NEmpl.,2018_total,14461557.900000002,14461557.900000002,0.0,0.01,PASS
+Empl.,2018_total,30544905.6,30544905.6,0.0,0.01,PASS
+RecurringRevenue,2018_total,68584167.0,68584167.0,0.0,0.01,PASS
+PSORevenue,2018_total,9307488.2,9307488.2,0.0,0.01,PASS
+PerpetualRevenue,2018_total,1302828.3,1302828.3,0.0,0.01,PASS
+Finance Roles,hourly_rate_usd,395.0,395.0,0.0,0.01,PASS
+Finance Roles,annual_salary_usd,790000.0,790000.0,0.0,0.01,PASS

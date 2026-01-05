@@ -1,0 +1,40 @@
+sheet,column,pre_dtype,post_dtype,changed
+Benchmarks,category,object,object,False
+Benchmarks,benchmark,object,float64,True
+P&L Summary,p_l_summary,object,object,False
+P&L Summary,2018_total,object,float64,True
+OPEX - NEmpl.,function_l1,object,object,False
+OPEX - NEmpl.,function_l2,object,object,False
+OPEX - NEmpl.,department,object,object,False
+OPEX - NEmpl.,expense_category,object,object,False
+OPEX - NEmpl.,vendor,object,object,False
+OPEX - NEmpl.,2018_total,object,float64,True
+COGS - NEmpl.,function_l1,object,object,False
+COGS - NEmpl.,function_l2,object,object,False
+COGS - NEmpl.,department,object,object,False
+COGS - NEmpl.,expense_category,object,object,False
+COGS - NEmpl.,vendor,object,object,False
+COGS - NEmpl.,2018_total,object,float64,True
+Empl.,tier,object,object,False
+Empl.,category,object,object,False
+Empl.,function_l1,object,object,False
+Empl.,function_l2,object,object,False
+Empl.,department,object,object,False
+Empl.,name,object,object,False
+Empl.,2018_total,object,float64,True
+RecurringRevenue,tier,object,object,False
+RecurringRevenue,type,object,object,False
+RecurringRevenue,customer_name,object,object,False
+RecurringRevenue,2018_total,object,float64,True
+PSORevenue,tier,object,object,False
+PSORevenue,type,object,object,False
+PSORevenue,customer_name,object,object,False
+PSORevenue,2018_total,object,float64,True
+PerpetualRevenue,tier,object,object,False
+PerpetualRevenue,type,object,object,False
+PerpetualRevenue,customer_name,object,object,False
+PerpetualRevenue,2018_total,object,float64,True
+Finance Roles,title,object,object,False
+Finance Roles,description,object,object,False
+Finance Roles,hourly_rate_usd,object,int64,True
+Finance Roles,annual_salary_usd,object,int64,True
