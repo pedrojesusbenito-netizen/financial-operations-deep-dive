@@ -1,0 +1,17 @@
+flag_id,area,description,evidence,materiality
+F-01,OPEX - NEmpl.,Material concentration of negative adjustments (22.5% of absolute total),"Sheet: OPEX - NEmpl., Negative sum: $-11,107,548, Count: 321",High
+F-02,OPEX - NEmpl. - G&A,Systematic negative adjustments in G&A (32.3% of category),"Category: G&A, Negative sum: $-8,429,793, Count: 286",Medium
+F-03,OPEX - NEmpl. - R&D,Systematic negative adjustments in R&D (12.4% of category),"Category: R&D, Negative sum: $-1,365,580, Count: 6",Medium
+F-04,OPEX - NEmpl. - S&M,Systematic negative adjustments in S&M (10.7% of category),"Category: S&M, Negative sum: $-1,312,174, Count: 29",Medium
+F-05,OPEX - NEmpl. - Occupancy,Concentrated negative adjustments in Occupancy department (49.0%),"Department: Occupancy, Negative sum: $-3,903,486, Count: 13",Medium
+F-06,OPEX - NEmpl. - Benefits,Concentrated negative adjustments in Benefits department (50.0%),"Department: Benefits, Negative sum: $-3,102,884, Count: 219",Medium
+F-07,OPEX - NEmpl. - Product Development,Concentrated negative adjustments in Product Development department (14.9%),"Department: Product Development, Negative sum: $-1,365,580, Count: 6",Medium
+F-08,COGS - NEmpl.,Systematic concentration of negative adjustments (4.2% of absolute total),"Sheet: COGS - NEmpl., Negative sum: $-671,686, Count: 34",Medium
+F-09,COGS - NEmpl. - Customer Success,Concentrated negative adjustments in Customer Success department (11.8%),"Department: Customer Success, Negative sum: $-247,960, Count: 7",Medium
+F-10,Empl.,Systematic concentration of negative adjustments (3.0% of absolute total),"Sheet: Empl., Negative sum: $-964,278, Count: 21",Medium
+F-11,Empl. - Solution Consultants,Concentrated negative adjustments in Solution Consultants department (11.6%),"Department: Solution Consultants, Negative sum: $-145,886, Count: 2",Medium
+F-12,OPEX - G&A,G&A expense at 11.7% of revenue,"OPEX G&A total: $9,258,384",Medium
+F-13,S&M,S&M expense at 12.2% of revenue,"OPEX S&M: $9,650,308",Medium
+F-14,Expense Mix,Non-HC expense (57.7%) exceeds HC expense (42.3%),"HC: $30,544,906, Non-HC: $41,632,187",High
+F-15,Margin,"Gross margin at 8.9%, below benchmark","Margin: $7,017,390",High
+F-16,Revenue Mix,Recurring revenue represents 86.6% of total,"Recurring: $68,584,167",Medium
