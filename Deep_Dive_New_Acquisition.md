@@ -418,20 +418,29 @@ This becomes the **operations control tower** for financial performance:
 
 ### 1. Tools Leveraged in This Assessment
 
-**Claude Code (Sonnet 4.5)**
-- **Purpose:** Primary analytical execution assistant for all phases of analysis
+**Claude Code Opus**
+- **Role:** AI analyst operating under SVP guidance and direction
+- **Purpose:** Execute detailed analytical tasks as directed by SVP of Operations
 - **How it helped:**
-  - **Phase 1 (Data Ingestion & Schema Normalization):** Wrote Python scripts to normalize inconsistent column names, reconcile totals across sheets, and detect data quality issues
-  - **Phase 2 (Financial Overview & Anomaly Flagging):** Identified out-of-benchmark areas (Margin, G&A, S&M) and flagged systematic negative adjustment patterns
-  - **Phase 3-5 (5-Why Deep Dive):** Conducted structured root cause analysis following 5-Why methodology, maintaining analytical rigor and evidence-based conclusions
-  - **Pattern Detection:** Identified bimodal offset distribution (low-offset vs high-offset categories) through statistical analysis
-  - **Decision Boundary Classification:** Developed decision-safe vs decision-unsafe framework based on offset mechanics
-  - **Visualization Support:** Generated visual evidence (waterfall charts, heatmaps, Pareto charts) to communicate complex offset patterns
+  - **Phase 1 (Data Ingestion & Schema Normalization):** Wrote Python scripts to normalize inconsistent column names, reconcile totals across sheets, and detect data quality issues per SVP specifications
+  - **Phase 2 (Financial Overview & Anomaly Flagging):** Executed benchmark comparison analysis and flagged systematic negative adjustment patterns as directed
+  - **Phase 3-5 (5-Why Deep Dive):** Assisted SVP on performing root cause analysis following 5-Why methodology, maintaining analytical rigor and evidence-based conclusions
+  - **Pattern Detection:** Conducted statistical analysis to identify bimodal offset distribution (low-offset vs high-offset categories) based on SVP investigation priorities
+  - **Decision Boundary Classification:** Developed decision-safe vs decision-unsafe framework based on offset mechanics under SVP conceptual direction
+  - **Visualization Support:** Generated visual evidence (waterfall charts, heatmaps, Pareto charts) to communicate complex offset patterns per SVP requirements
   - **Quality Control:** Validated reconciliations, maintained row count audit trail, ensured totals matched across transformations
+
+**Claude Code Haiku**
+- **Role:** Document organization and formatting assistant
+- **Purpose:** Structure and format final deliverables
+- **How it helped:**
+  - Organized analytical outputs into executive-ready document structure
+  - Formatted tables, sections, and evidence references for C-level readability
+  - Ensured consistency in document presentation and flow
 
 **Python (pandas, openpyxl, matplotlib)**
 - **Purpose:** Data processing, transformation, and aggregation
-- **Scripts developed:**
+- **Scripts developed by Claude Opus under SVP direction:**
   - `scripts/01_ingestion_and_schema.py`: Normalized P&L schema, reconciled totals
   - `scripts/02_phase1c_normalization.py`: Applied systematic column renaming and data type corrections
   - `scripts/03_phase2_analysis.py`: Computed functional benchmarks, offset ratios, concentration metrics
@@ -445,65 +454,66 @@ This becomes the **operations control tower** for financial performance:
 
 ### 2. How This Approach Translates to the Operations Role
 
-**In a Live SVP of Operations Environment, This AI-Assisted Methodology Would Enable:**
+**In a Live SVP of Operations Environment, This SVP-Directed AI-Assisted Methodology Would Enable:**
 
-#### A. Rapid Financial Assessment (Week 1 of New Acquisition Integration)
+#### A. Rapid Financial Assessment (Day 1 of New Acquisition Integration)
 - **Traditional Approach:** 2-4 weeks of finance team interviews, manual P&L review, vendor-by-vendor analysis
-- **AI-Assisted Approach:**
-  - **Day 1-2:** Claude Code ingests P&L, normalizes schema, reconciles totals, flags anomalies
-  - **Day 3:** Automated benchmark comparison, offset pattern detection, decision boundary classification
-  - **Day 4-5:** SVP reviews auto-generated deep-dive analysis, validates decision-safe optimization targets
-  - **Result:** Actionable transformation plan in 5 days vs 30 days (6x faster)
+- **SVP-Directed AI-Assisted Approach:**
+  - **Hour 1-2:** SVP directs Claude Code to ingest P&L, normalize schema, reconcile totals, and flag anomalies
+  - **Hour 3-4:** SVP guides benchmark comparison priorities and reviews offset pattern detection results, directing deeper investigation where warranted
+  - **Hour 5-8:** SVP validates decision boundary classification, refines transformation priorities, and approves decision-safe optimization targets
+  - **Result:** Actionable transformation plan in 1 day vs 30 days (30x faster), with SVP maintaining strategic control throughout. This process can be repeated multiple times per day for different entities or successive analysis iterations.
 
 #### B. Continuous Operational Intelligence
-- **Monthly P&L Review:** Claude Code processes updated P&L, auto-generates variance explanations, flags new patterns
-- **Daily Cost Monitoring:** Automated alerts when functional costs trend above benchmark
-- **Quarterly Board Reporting:** AI-generated summaries with drill-down evidence trails
+- **Monthly P&L Review:** SVP directs Claude Code to process updated P&L, guides variance investigation priorities, and reviews AI-generated explanations
+- **Daily Cost Monitoring:** SVP sets benchmark thresholds and receives alerts when functional costs trend above targets, directing investigation as needed
+- **Quarterly Board Reporting:** SVP reviews AI-generated summaries with drill-down evidence trails, adds strategic context before presentation
 
 #### C. Scalable Across Portfolio
-- **Single Entity Analysis:** Demonstrated in this assessment (3,180 line items, 5-day analysis)
+- **Single Entity Analysis:** Demonstrated in this assessment (3,180 line items, 1-day analysis under SVP direction)
 - **Multi-Entity Portfolio:**
-  - Apply same methodology across 10-20 acquired entities
-  - Standardize decision boundary classification
-  - Roll up portfolio-level benchmark performance
-  - Identify cross-entity best practices (e.g., Entity A has 2% G&A Outsourced Services vs Entity B at 8%—why?)
+  - SVP establishes analysis framework once, then directs AI to apply across 10-20 acquired entities
+  - Can process multiple entities per day, enabling rapid portfolio assessment
+  - Standardize decision boundary classification under SVP methodology
+  - Roll up portfolio-level benchmark performance with SVP-defined KPIs
+  - SVP reviews cross-entity patterns (e.g., Entity A has 2% G&A Outsourced Services vs Entity B at 8%—directs AI to investigate drivers)
 
 #### D. Institutional Knowledge Capture
 - **Current State:** Analysis methodology exists in analyst's head; knowledge walks out the door when they leave
-- **AI-Assisted State:**
-  - Methodology codified in Claude Code prompts and Python scripts
-  - Repeatable, auditable, transferable
-  - New team members can execute same analysis quality in days vs months of training
-  - Analysis improves over time as patterns are detected across more entities
+- **SVP-Directed AI-Assisted State:**
+  - SVP's analytical framework codified in Claude Code prompts and Python scripts
+  - Repeatable, auditable, transferable methodology under SVP ownership
+  - New team members can execute SVP's analysis approach in days vs months of training
+  - SVP refines methodology over time as patterns are detected across more entities
 
 #### E. Evidence-Based Leadership
 - **Traditional:** "I think G&A is high" → weeks of analysis → inconclusive recommendations
-- **AI-Assisted:** "G&A is 11.7% vs 9.0% benchmark; $6.8M is decision-safe for immediate action (Outsourced Services, Hosting); $2.5M requires allocation documentation before action; see detailed evidence in Phase 3-5 analysis"
-  - **Leadership can:**
-    - Act immediately on decision-safe portfolio ($1.5-$1.9M opportunity)
-    - Commission targeted documentation effort for decision-unsafe portfolio (clear scope)
-    - Monitor progress with automated benchmark tracking
+- **SVP-Directed AI-Assisted:** SVP rapidly validates hypothesis with AI-generated evidence: "G&A is 11.7% vs 9.0% benchmark; I've directed analysis showing $6.8M is decision-safe for immediate action (Outsourced Services, Hosting); $2.5M requires allocation documentation before action; see detailed evidence in Phase 3-5 analysis"
+  - **SVP can:**
+    - Act immediately on decision-safe portfolio ($1.5-$1.9M opportunity) with confidence
+    - Commission targeted documentation effort for decision-unsafe portfolio with clear scope
+    - Monitor progress with AI-powered benchmark tracking under SVP oversight
 
 ---
 
 ### 3. Competitive Advantage in Operations Leadership
 
-**This AI-assisted approach provides:**
+**This SVP-directed AI-assisted approach provides:**
 
-1. **Speed:** 6x faster financial assessment (days vs weeks)
-2. **Depth:** Systematic 5-Why analysis vs surface-level variance review
-3. **Precision:** Decision-safe vs decision-unsafe classification prevents premature action
-4. **Scalability:** Methodology applies to single entity or 100-entity portfolio
-5. **Transparency:** Fully auditable, evidence-based conclusions vs "trust me" analysis
-6. **Institutional Resilience:** Methodology captured in code, not dependent on individual analysts
+1. **Speed:** 30x faster financial assessment (1 day vs 30 days) with SVP maintaining strategic control, repeatable multiple times per day
+2. **Depth:** SVP-guided systematic 5-Why analysis vs surface-level variance review
+3. **Precision:** SVP-validated decision-safe vs decision-unsafe classification prevents premature action
+4. **Scalability:** SVP's methodology applies to single entity or 100-entity portfolio with multi-entity per day capability
+5. **Transparency:** Fully auditable, evidence-based conclusions under SVP ownership vs "trust me" analysis
+6. **Institutional Resilience:** SVP's methodology captured in code, not dependent on individual analysts
 
 **In the role of SVP of Operations:**
-- **Month 1-3:** Assess acquired entity, identify $2-3M in decision-safe optimization opportunities, establish process documentation requirements
-- **Month 4-6:** Execute decision-safe optimizations (vendor consolidation, rate negotiations), obtain allocation methodology docs
-- **Month 7-12:** Execute decision-unsafe optimizations (Personnel/Occupancy structure), track benchmark progress
-- **Ongoing:** AI-powered continuous monitoring, monthly variance auto-explanations, proactive alerting
+- **Month 1-3:** Direct AI to assess acquired entity, validate $2-3M in decision-safe optimization opportunities, establish process documentation requirements
+- **Month 4-6:** Execute decision-safe optimizations (vendor consolidation, rate negotiations), direct AI to obtain and analyze allocation methodology docs
+- **Month 7-12:** Execute decision-unsafe optimizations (Personnel/Occupancy structure), direct AI-powered benchmark progress tracking
+- **Ongoing:** Oversee AI-powered continuous monitoring, review monthly variance explanations, set proactive alert thresholds
 
-**Result:** Faster integration, higher-confidence decisions, scalable across portfolio, defensible to Board/C-suite.
+**Result:** SVP delivers faster integration, higher-confidence decisions, scalable methodology across portfolio, defensible to Board/C-suite with AI as force multiplier under SVP leadership.
 
 ---
 
